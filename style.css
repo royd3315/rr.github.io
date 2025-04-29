@@ -237,3 +237,7 @@ a.no-color {
 .container .resume-hobby ul li:last-child::before {
     display: none;
 }
+a.no-color {
+    color: inherit;
+    text-decoration: none;
+}
