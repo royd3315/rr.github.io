@@ -22,12 +22,6 @@ body{
     margin: 50px auto;
 }
 
-a.no-color {
-  color: inherit;
-  text-decoration: none;
-}
-
-
 .container .box-left {
     width: 280px;
     background-color: #333e51;
